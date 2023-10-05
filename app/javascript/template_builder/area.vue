@@ -32,7 +32,7 @@
     <div
       v-if="field?.type"
       class="absolute bg-white rounded-t border overflow-visible whitespace-nowrap group-hover:flex group-hover:z-10"
-      :class="{ 'flex z-10': isNameFocus || isSelected, hidden: !isNameFocus && !isSelected }"
+      :class="{ 'flex z-10': isNameFocus || isSelected, invisible: !isNameFocus && !isSelected }"
       style="top: -25px; height: 25px"
       @mousedown.stop
       @pointerdown.stop
