@@ -4,7 +4,10 @@
       <img  alt="DocuSeal" src="https://github.com/docusealco/docuseal/assets/5418788/c12cd051-81cd-4402-bc3a-92f2cfdc1b06" width="80" />
       <br>
     </a>
-    DocuSeal
+    <p>DocuSeal</p>
+    <a href="https://www.producthunt.com/posts/docuseal" target="_blank">
+      <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=425208&theme=light" alt="DocuSeal - Open-source DocuSign alternative | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" />
+    </a>
   </div>
 </h1>
 <h3 align="center">
